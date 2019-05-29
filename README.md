@@ -16,6 +16,6 @@ git clone https://github.com/DottD/py-FVConGoing.git
 
 * Any extra dependencies, must be installed in a system-wide version of Python 3 for Win32; then, copy the relevant folders in `<your-syswide-python>\Lib\site-packages` to the `Lib` folder inside the Python embeddable folder (eventually create it). Finally, add `/Lib` to the `pythonXX_.pth` file in your embeddable distribution.
 
-## How to contribute
+## How to contribute
 
 By now, the only supported competition is _Fingerprint Orientation Extraction_. If you need to participate to other competitions of FVC-onGoing and you wish to contribute to this repo, please let me know, and I'll point you to the right direction privately.
